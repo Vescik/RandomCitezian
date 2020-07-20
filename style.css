@@ -37,3 +37,9 @@ li{
     list-style-type: none;
     padding: 5px;
 }
+
+@media only screen and (max-width: 767px) {
+    .heading{
+        font-size: 80px;
+    }
+}
